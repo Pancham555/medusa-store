@@ -49,3 +49,4 @@ const loaders = require("@medusajs/medusa/dist/loaders/index").default;
   await start();
 })();
 // "start": "cross-env npm run build && medusa start",
+// "build:admin": "cross-env medusa-admin build",
